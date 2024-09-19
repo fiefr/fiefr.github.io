@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://fiefr.github.io/fZb/sitemap.fZb.gz
